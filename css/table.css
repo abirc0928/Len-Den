@@ -1,0 +1,112 @@
+body{
+    font-family: "Dosis", sans-serif;
+}
+.mt{
+    /* padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 3%;
+    margin-top: 3%;
+    border: 1px solid rgb(33, 33, 33);
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 1px 1px 5px #888888;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    background-color: rgb(255, 255, 255); */
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-bottom: 2%;
+    
+}
+td{
+    font-family: "Dosis", sans-serif;
+    /* padding: 0 !important ;
+    margin: 0 !important; */
+    overflow: hidden !important;
+}
+/* body {
+    background-color: hsl(0, 0%, 94%) !important;
+  } */
+
+tr:hover{
+    transform: scale(1.002);
+    transition: all 0.3s;
+    cursor: pointer;
+    overflow: hidden;
+    background-color: rgba(213, 213, 213) !important;   
+}
+
+.pagination > li.active > a, .pagination > li.active > span{
+    background-color:rgb(255, 162, 0) !important;
+    border-color: rgb(255, 162, 0) !important;
+}
+.pagination > li > a{
+    color: rgb(255, 162, 0) !important;
+}
+.pagination > li.active > a{
+    color: rgb(255, 255, 255) !important;
+}
+h2{
+    font-family: "Dosis", sans-serif;
+}
+.aaa{
+    font-size: 2.5rem !important;
+    font-weight: bolder;
+    color: rgb(238, 165, 70);
+    margin-top: 2%;
+    margin-bottom: 1%;
+    
+}
+.aaaa{
+    font-size: 1rem !important;
+
+    color: rgb(177, 177, 177);
+    margin-bottom: 2%;
+    
+}
+.custom{
+    width: 50px !important;
+    height: 50px !important;
+    margin: auto;
+    border-radius: 100% !important;
+    border: 2px solid rgb(238, 165, 70);
+    margin: 0 !important;
+    padding: 0 !important;
+    
+}
+.custom:hover{
+    border: 2px solid rgb(117, 117, 117);
+    height: 55px !important;
+    width: 55px !important;
+    transition: all 0.3s;
+    filter: none;
+    -webkit-filter: grayscale(100%);
+}
+.ccc{
+    margin-top: 5% !important;
+    border-radius: 50% !important;
+}
+
+.custom-btn{
+    color: white !important;
+    background-color: rgb(238, 165, 70) !important;
+    border-color: rgb(238, 165, 70) !important;
+    width: 100% !important;
+    height: 100% !important;
+    
+}
+.custom-btn:hover{
+    background-color: rgb(188, 130, 53) !important;
+    border-color: rgb(188, 130, 53)  !important;
+}
+#example_filter{
+    margin-bottom: 5% !important;
+}
+.swal2-styled.swal2-confirm{
+    background-color: rgb(238, 165, 70) !important;
+}
+.swal2-styled.swal2-confirm:hover{
+    background-color: rgb(188, 130, 53) !important;
+    translate: all 0.3s;
+}
