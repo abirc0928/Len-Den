@@ -6,8 +6,8 @@ Len-Den is a loan management system for the students of United International Uni
 * Database: MySQL
 
 ## Developed By
-* Jubayer Hossen  
-* Email: `jhossen191254@bscse.uiu.ac.bd`  
+* Abir Chowdhury
+* Email: `abirchowdhury0928@gmail.com`   
 * BSc in Computer Science and Engineering  
 * United International University
 
